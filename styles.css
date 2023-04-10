@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+	background-color: #BC8F8F;
+}
+img.abortion{
+    float: left;
+    border: 0px;
+    margin: 0px;
+    padding-right: 10px;
+}
+.card-body{
+	text-align: center;
+}
